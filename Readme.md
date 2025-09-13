@@ -20,7 +20,7 @@
 
 
 
-\##Reference
+<h2>Reference</h2>
 
 * <b>Intel Official Site</b> : https://pytorch-extension.intel.com/installation?platform=gpu\&version=v2.7.10%2Bxpu\&os=windows\&package=pip
 * <b>Intel Deep Learning Essential</b>: https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?packages=dl-essentials\&dl-essentials-os=windows\&dl-win=offline
