@@ -1,16 +1,16 @@
-\#Seolmin Jun Pytorch install
+<h1>Seolmin Jun Pytorch install</h1>
 
 
 
-\##Environment
+<h2>Environment</h2>
 
-* \*\*GPU\*\*: Intel(R) Arc(TM) 130V GPU (16GB)
+* <b>GPU</b>: Intel(R) Arc(TM) 130V GPU (16GB)
 * CUDA Support is not Available
 
 
 
-* \*\*Python: 3.13.7
-* \*\*PyTorch\*\*: 2.7.0+xpu
+* <b>Python</b>: 3.13.7
+* <b>PyTorch</b>: 2.7.0+xpu
 
 
 
@@ -22,5 +22,5 @@
 
 \##Reference
 
-* \*\*Intel Official Site\*\* : https://pytorch-extension.intel.com/installation?platform=gpu\&version=v2.7.10%2Bxpu\&os=windows\&package=pip
-* \*\*Intel Deep Learning Essential\*\*: https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?packages=dl-essentials\&dl-essentials-os=windows\&dl-win=offline
+* <b>Intel Official Site</b> : https://pytorch-extension.intel.com/installation?platform=gpu\&version=v2.7.10%2Bxpu\&os=windows\&package=pip
+* <b>Intel Deep Learning Essential</b>: https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?packages=dl-essentials\&dl-essentials-os=windows\&dl-win=offline
